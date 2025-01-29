@@ -80,3 +80,8 @@ npm install
 These are all my tests passed:
 
 ![Screenshot 2025-01-29 124054](https://github.com/user-attachments/assets/c3f66876-16a1-4a28-8e82-38f8aab739e5)
+
+## 📋 Jira backlog
+
+![Screenshot 2025-01-29 142136](https://github.com/user-attachments/assets/ae496113-e1d8-4992-8321-6b3d202f95a3)
+
