@@ -27,4 +27,13 @@ class LetterTest extends TestCase
         $response->assertStatus(200);
         $response->assertSeeText("$numChain$expectedLetter");
     }
+
+    public function test_CheckIfCanAssignLetterToNumberWithInvalidLength(): void
+    {
+        $numChain = "123";
+        $response = $this->get(route('apiassign', ['id' => $numChain]));
+
+        $response->assertStatus(200);
+        $response->assertSeeText("Please, insert a valid number (8 numbers needed)");
+    }
 }
