@@ -74,3 +74,9 @@ npm install
 ![Screenshot 2025-01-29 133548](https://github.com/user-attachments/assets/bb919b6c-e079-4b05-949b-8b54ac26e06e)
 
 ***
+
+## ⚙️ Tests
+
+These are all my tests passed:
+
+![Screenshot 2025-01-29 124054](https://github.com/user-attachments/assets/c3f66876-16a1-4a28-8e82-38f8aab739e5)
