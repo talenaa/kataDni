@@ -35,3 +35,19 @@ After inserting the route with the eight-digit id, you'll get the return of the 
 </p>
 
 ***
+## Installation requirements
+Before you start to read how to install the app you'll need these requirements:
+>[!NOTE]
+>If you can't install xampp, look for any other local server that supports **MySQL** and **PHP**
+***
+
+1. XAMPP
+
+2. Install Composer
+
+3. Install NPM in Node.js
+
+4. Xdebug (for the tests coverage)
+
+5. Postman
+***
