@@ -1,4 +1,4 @@
-# Kata DNI
+# Kata DNI (PHP LARAVEL)
 
 For this project we need to make an app in php laravel that returns an eight-digit number with a letter, via endpoints. It emulates the Spanish National Identification card (DNI).
 ***
@@ -50,4 +50,27 @@ Before you start to read how to install the app you'll need these requirements:
 4. Xdebug (for the tests coverage)
 
 5. Postman
+***
+
+## Installation guide
+>[!NOTE]
+>Before we begin it's important that you create a database (i used mysql via xampp).
+
+1. Clone this repository:
+```
+https://github.com/talenaa/kataDni.git
+```
+
+2. Install composer and NPM through the VSC terminal
+```
+composer install
+```
+```
+npm install
+```
+
+3. In the .env file scroll a bit down and change the existing lines for these following lines
+
+![Screenshot 2025-01-29 133548](https://github.com/user-attachments/assets/bb919b6c-e079-4b05-949b-8b54ac26e06e)
+
 ***
