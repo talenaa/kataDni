@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Letter;
 use Illuminate\Http\Request;
 
 class LettersController extends Controller
@@ -19,4 +20,3 @@ class LettersController extends Controller
 }
 
 }
-
